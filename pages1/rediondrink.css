@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+
+
+.header1{
+    background-color: #323232;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+
+}
+
+.slovo{
+    font-size: 50px;
+}
+
+.main{
+    background-color:#323232 ;
+    
+}
+
+.rag1{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 200px;
+}
+
+.rag2{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    gap: 300px;
+}
+
+.rag3{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    gap: 200px;
+}

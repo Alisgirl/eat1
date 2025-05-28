@@ -1,0 +1,7 @@
+[
+    {"title": "Chocoatl", "description": "Шокоатль", "price": 150, "image": "натвода.jpg"},
+    {"title": "Elixir of strength", "description": "Еліксир сили", "price": 100, "image": "натвода1.jpg"},
+    {"title": "Blessed juice", "description": "Благодатний сік", "price": 200, "image": "натвода2.jpg"},
+    {"title": "Bowl of cereal fruits", "description": "Чаша злакофруктів", "price": 80, "image": "натвода3.jpg"},
+    {"title": "", "description": "Скоро"}
+]

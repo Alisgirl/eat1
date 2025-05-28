@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мавуіка - Natlan Cuisine</title>
-    <link rel="stylesheet" href="nat-drink.css">
+    <title>Cart - Фуріна</title>
+    <link rel="stylesheet" href="fon-drink.css">
 </head>
 
 <body class="cnt">
@@ -15,7 +15,7 @@
             <nav>
                 <ul class="nav-links">
                     <li><a href="/index.html" class="nav-link">Home</a></li>
-                    <li><a href="/nat-drink/cart.html" class="nav-link">Catalog</a></li>
+                    <li><a href="/fon-drink/fon-drink.html" class="nav-link">Catalog</a></li>
                     <li><a href="cart.html" class="nav-link cart-btn-header">Cart (<span
                                 class="cart-counter">0</span>)</a></li>
                 </ul>
@@ -25,19 +25,22 @@
                 <button class="search">Search</button>
             </div>
         </div>
-        <h1 class="h1">Мавуіка</h1>
-        <h2 class="h2">Ласкаво просимо до Натлана! Я Мавуіка, Піро Архонт. Я бачу ви втомилися ,пропуную вам попробувати наші страви!</h2>
+        <h1 class="h1">Фуріна</h1>
+        <h2 class="h2">Ваш кошик у Фонтейн</h2>
     </header>
     <main>
-        <section id="catalog">
-            <h2 class="catalog-title">Наше Меню</h2>
-            <div class="items"></div>
+        <section class="itemscard">
+            <h2 class="catalog-title">Ваш Кошик</h2>
+            <div class="itemscard"></div>
+            <p class="cart-total">Загальна сума: <span id="cart_total">0</span></p>
+            <button id="orderBtn" class="order-btn">Оформити замовлення</button>
         </section>
     </main>
     <footer>
-        <p>&copy; 2025 Мавуіка. Усі права захищено.</p>
+        <p>&copy; 2025 Фуріна. Усі права захищено.</p>
     </footer>
-    <script src="nat-drink.js"></script>
+    <script src="fon-drink.js"></script>
+    <script src="cart.js"></script>
 </body>
 
 </html>

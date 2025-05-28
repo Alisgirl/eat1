@@ -1,0 +1,7 @@
+[
+    {"title": "Poisson-Chanson pie", "description": "Пиріг Пуассон-Шансон", "price": 150, "image": "Фон.jpg"},
+    {"title": "Fontinalia Mousse", "description": "Мус Фонтиналії", "price": 100, "image": "фон1.jpg"},
+    {"title": "Haggis", "description": "Хаггис", "price": 200, "image": "фон2.jpg"},
+    {"title": "Tumor profitrol", "description": "Пухльовий профітроль", "price": 80, "image": "фон3.jpg"},
+    {"title": "Bubble souffle", "description": "Пухирцеве суфле", "price": 50, "image": "фон4.jpg"}
+]

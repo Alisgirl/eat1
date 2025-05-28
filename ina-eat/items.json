@@ -1,0 +1,7 @@
+[
+    {"title": "Chadzuke with eel", "description": "Чадзуке з вугрем", "price": 150, "image": "іна.png"},
+    {"title": "Hanami dango", "description": "Ханамі данго", "price": 100, "image": "іна1.png"},
+    {"title": "Three types of barbecue", "description": "Три види шашлика", "price": 200, "image": "іна2.png"},
+    {"title": "Omuraisu", "description": "Омурайсу", "price": 80, "image": "іна3.png"},
+    {"title": "Cherry rice cake", "description": "Вишневий рисів'яник", "price": 50, "image": "іна4.png"}
+]

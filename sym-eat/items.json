@@ -1,0 +1,7 @@
+[
+    {"title": "Potato boat", "description": "Картопляний човен", "price": 150, "image": "сум.jpg"},
+    {"title": "Chicken in oil", "description": "Курча в олії", "price": 100, "image": "сум1.jpg"},
+    {"title": "Shrimp in curry sauce", "description": "Креветки в соусі каррі", "price": 200, "image": "сум2.jpg"},
+    {"title": "Hermit's Tajin", "description": "Таджин Пустельника", "price": 80, "image": "сум3.jpg"},
+    {"title": "Fatteh", "description": "Фаттех", "price": 50, "image": "сум4.jpg"}
+]

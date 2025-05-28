@@ -1,0 +1,7 @@
+[
+    {"title": "Radish balls", "description": "Редисова кулька", "price": 150, "image": "лі.png"},
+    {"title": "Soup of jewelry", "description": "Суп із прикрас", "price": 100, "image": "лі1.jpg"},
+    {"title": "Naletayka", "description": "Налетайка", "price": 200, "image": "лі2.png"},
+    {"title": "Jade bags", "description": "Нефритові мішечки", "price": 80, "image": "лі3.png"},
+    {"title": "Fried Tiger Fish", "description": "Смажена риба-тигр", "price": 50, "image": "лі4.png"}
+]

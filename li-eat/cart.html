@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Чжун Ли - Li Yue Cuisine</title>
+    <title>Cart - Чжун Ли</title>
     <link rel="stylesheet" href="li-eat.css">
 </head>
 
@@ -15,7 +15,7 @@
             <nav>
                 <ul class="nav-links">
                     <li><a href="/index.html" class="nav-link">Home</a></li>
-                    <li><a href="/li-eat/cart.html" class="nav-link">Catalog</a></li>
+                    <li><a href="/li-eat/li-eat.html" class="nav-link">Catalog</a></li>
                     <li><a href="cart.html" class="nav-link cart-btn-header">Cart (<span
                                 class="cart-counter">0</span>)</a></li>
                 </ul>
@@ -26,18 +26,21 @@
             </div>
         </div>
         <h1 class="h1">Джун Ли</h1>
-        <h2 class="h2">Ласкаво прошу в Ли Ює,я Джун Ли Гео Архонт .Я бачу ви втомилися ,пропуную вам попробувати наші страви!</h2>
+        <h2 class="h2">Ваш кошик у Ли Ює</h2>
     </header>
     <main>
-        <section id="catalog">
-            <h2 class="catalog-title">Наше Меню</h2>
-            <div class="items"></div>
+        <section class="itemscard">
+            <h2 class="catalog-title">Ваш Кошик</h2>
+            <div class="itemscard"></div>
+            <p class="cart-total">Загальна сума: <span id="cart_total">0</span></p>
+            <button id="orderBtn" class="order-btn">Оформити замовлення</button>
         </section>
     </main>
     <footer>
         <p>&copy; 2025 Чжун Ли. Усі права захищено.</p>
     </footer>
     <script src="li-eat.js"></script>
+    <script src="/li-eat/cart.js"></script>
 </body>
 
 </html>

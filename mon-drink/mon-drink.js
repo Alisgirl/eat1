@@ -44,11 +44,11 @@ async function getProducts() {
     } catch (error) {
         console.error('Error fetching items.json:', error);
         return [
-            { title: "Sticky Honey Roast", description: "Соковите м’ясо, запечене з медом", price: 150, image: "mael.png" },
-            { title: "Mondstadt Grilled Fish", description: "Смажена риба з травами", price: 100, image: "fish.png" },
-            { title: "Mushroom Pizza", description: "Піца з грибами та сиром", price: 200, image: "pizza.png" },
-            { title: "Fisherman’s Toast", description: "Хрусткий тост з рибною начинкою", price: 80, image: "bylka.png" },
-            { title: "Mint Jelly", description: "Освіжаючий м’ятний десерт", price: 50, image: "shele.png" }
+            {title: "", description: "Свята вода", price: 150, image: "монвода.png"},
+            {title: "", description: "Сік із вовчих гаків", price: 100, image: "монвода1.png"},
+            {title: "", description: "Яблучний напій", price: 200, image: "монвода2.png"},
+            {title: "", description: "Ягідний напій із м'ятою", price: 80, image: "монвода3.png"},
+            { title: "", description: "Скоро" }
         ];
     }
 }
